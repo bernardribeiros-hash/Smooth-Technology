@@ -4,7 +4,7 @@
 
 export const SITE = {
   name: "Smooth Technology",
-  shortName: "Bernardo Ribeiro",
+  shortName: "Smooth Technology",
   tagline: "Cursos e serviços de informática",
   description:
     "Aprenda informática do zero. Manutenção, redes e suporte técnico com quem já ajudou centenas de alunos e clientes.",
