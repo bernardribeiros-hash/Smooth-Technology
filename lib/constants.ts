@@ -3,17 +3,17 @@
 // vive aqui para facilitar a manutenção.
 
 export const SITE = {
-  name: "[Seu Nome]",
-  shortName: "[Seu Nome]",
+  name: "Smooth Technology",
+  shortName: "Bernardo Ribeiro",
   tagline: "Cursos e serviços de informática",
   description:
-    "Aprenda informática do zero ou contrate manutenção, redes e suporte técnico com quem já ajudou centenas de alunos e clientes.",
-  whatsapp: "5511999999999", // formato: 55 + DDD + número, só dígitos
+    "Aprenda informática do zero. Manutenção, redes e suporte técnico com quem já ajudou centenas de alunos e clientes.",
+  whatsapp: "+55 051 98494-9454", // formato: 55 + DDD + número, só dígitos
   whatsappMessage: "Olá! Vim pelo site e quero saber mais.",
-  email: "contato@seudominio.com.br",
-  instagram: "@seuusuario",
+  email: "smooth.techn@gmail.com",
+  instagram: "@bernard_los",
   instagramUrl: "https://instagram.com/seuusuario",
-  youtube: "@seucanal",
+  youtube: "@sem",
   youtubeUrl: "https://youtube.com/@seucanal",
   linkedin: "/in/seuperfil",
   linkedinUrl: "https://linkedin.com/in/seuperfil",
@@ -23,9 +23,9 @@ export const SITE = {
   url: "https://www.seudominio.com.br",
   logo: "/images/logo.svg",
   ogImage: "/images/og-default.jpg",
-  foundedYear: 2018,
+  foundedYear: 2026,
   studentsCount: "500+",
-  yearsExperience: "8+",
+  yearsExperience: "7+",
   googleAnalyticsId: "G-XXXXXXXXXX",
   metaPixelId: "000000000000000",
 } as const;
@@ -67,7 +67,7 @@ export const TESTIMONIALS: Testimonial[] = [
   {
     name: "Juliana Reis",
     role: "Aluna do curso de Informática Básica",
-    photo: "https://placehold.co/96x96?text=JR",
+    photo: "https://www.pexels.com/pt-br/foto/retrato-sereno-de-escultura-em-preto-e-branco-38952451/",
     text: "Tenho 58 anos e sempre tive medo de computador. As aulas explicam tudo devagar, com paciência. Hoje resolvo praticamente tudo sozinha.",
     rating: 5,
   },
