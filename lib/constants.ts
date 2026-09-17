@@ -8,7 +8,7 @@ export const SITE = {
   tagline: "Cursos e serviços de informática",
   description:
     "Aprenda informática do zero. Manutenção, redes e suporte técnico com quem já ajudou centenas de alunos e clientes.",
-  whatsapp: "+55 051 98494-9454", // formato: 55 + DDD + número, só dígitos
+  whatsapp: "+55051984949454", // formato: 55 + DDD + número, só dígitos
   whatsappMessage: "Olá! Vim pelo site e quero saber mais.",
   email: "smooth.techn@gmail.com",
   instagram: "@bernard_los",
